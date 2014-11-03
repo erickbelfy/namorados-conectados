@@ -1,0 +1,5 @@
+@import url('../components/Facebook-friend-selector/tdfriendselector.css'); 
+@import url('default.css'); 
+@import url('style.css'); 
+div.facebookpopup#TDFriendSelector .TDFriendSelector_dialog .TDFriendSelector_footer #TDFriendSelector_pagePrev,#TDFriendSelector .TDFriendSelector_dialog .TDFriendSelector_footer #TDFriendSelector_pageNext{ background:transparent url(../images/tdfriendselector.png) no-repeat 0 0; }
+div.facebookpopup#TDFriendSelector .TDFriendSelector_dialog .TDFriendSelector_footer #TDFriendSelector_pagePrev{background-position:-44px 0;margin-right:2px; }
